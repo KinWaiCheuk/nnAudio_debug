@@ -6,6 +6,6 @@
    :template: custom-module-template.rst
    :recursive:
 
-   nnAudio.Spectrogra
+   nnAudio.Spectrogram
    nnAudio.librosa_functions
    nnAudio.utils

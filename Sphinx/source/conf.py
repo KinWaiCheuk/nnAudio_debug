@@ -16,8 +16,8 @@ import os
 import codecs
 import sys
 import sphinx_rtd_theme # This is for a nice html theme
-sys.path.insert(0, os.path.abspath('../../Installation/nnAudio'))
-sys.path.insert(0, os.path.abspath('../../Installation/'))
+sys.path.insert(0, '../Installation/nnAudio')
+sys.path.insert(0, '../Installation/')
  
 def read(rel_path):
     with codecs.open(rel_path, 'r') as fp:
